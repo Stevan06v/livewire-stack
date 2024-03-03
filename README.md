@@ -3,6 +3,7 @@
 
 
 * Livewire: https://laravel-livewire.com/
+* API-styled-components: https://livewire.laravel.com/docs/volt
 * Laravel: https://laravel.com/
 * UI-Components: https://mary-ui.com/
 * Database: https://www.postgresql.org/
