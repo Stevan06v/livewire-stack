@@ -8,4 +8,6 @@
 * UI-Components: https://mary-ui.com/
 * Database: https://www.postgresql.org/
 * Testing: https://pestphp.com/
+* Icons:
+  * composer require owenvoke/blade-fontawesome   
 * Deployment: https://www.heroku.com/
